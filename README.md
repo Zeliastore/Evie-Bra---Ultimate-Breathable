@@ -1,23 +1,8 @@
-# 🏠 Multifunctional Mop Holder - Landing Page
-
-Landing page premium untuk produk Multifunctional Mop Holder dengan fitur lengkap dan desain modern.
-
-## ✨ Fitur
-
-- 🎨 Desain responsive dan modern
-- ⏰ Countdown timer real-time
-- 📊 Dynamic counters (viewers, stock)
-- 📱 Mobile-friendly
-- 🚀 Optimized untuk konversi tinggi
-- 💬 Integrasi WhatsApp direct order
-
-## 🔗 Demo
-
-Lihat live demo: [https://username.github.io/mop-holder-landing-page](https://username.github.io/mop-holder-landing-page)
-
-## 🚀 Deployment
-
-Project ini sudah siap deploy ke GitHub Pages secara otomatis.
+# Evie Bra - Ultimate Breathable
+Premium Landing Page 🌟
+Selamat datang di repository landing page premium untuk Evie Bra Ultimate Breathable - revolusi kenyamanan bra wanita dengan teknologi breathable terdepan.
+📋 Deskripsi Produk
+Evie Bra Ultimate Breathable adalah bra revolusioner yang menggabungkan kenyamanan maksimal, support sempurna, dan teknologi breathable terdepan. Dirancang khusus untuk wanita Indonesia yang aktif dan dinamis.
 
 ## 📞 Kontak
 
